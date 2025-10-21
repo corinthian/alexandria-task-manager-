@@ -6,7 +6,7 @@
 
 ## Prerequisites
 
-- **TaskWarrior MCP server** installed and configured ([installation guide](https://github.com/modelcontextprotocol/servers/tree/main/src/taskwarrior))
+- **TaskWarrior MCP server** installed and configured ([mcp-server-taskwarrior](https://github.com/corinthian/mcp-server-taskwarrior))
 - **Claude Sonnet 4+** access (semantic reasoning works best with Sonnet 4+)
 
 ## Overview
@@ -35,7 +35,7 @@ Alexandria consists of 5 markdown files (~7,800 tokens total) loaded into a Clau
 
 ### TaskWarrior MCP Server (REQUIRED for connected mode)
 
-Alexandria operates via [TaskWarrior MCP server](https://github.com/modelcontextprotocol/servers/tree/main/src/taskwarrior), which provides 16 task management tools through the Model Context Protocol standard.
+Alexandria operates via [TaskWarrior MCP server](https://github.com/corinthian/mcp-server-taskwarrior), which provides 16 task management tools through the Model Context Protocol standard.
 
 **Two operational states:**
 
