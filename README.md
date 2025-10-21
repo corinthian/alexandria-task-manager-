@@ -2,7 +2,7 @@
 
 **Modal GTD task management assistant powered by LLM inference**
 
-[![Version](https://img.shields.io/badge/version-1.0-blue.svg)](https://github.com/yourusername/alexandria)
+[![Version](https://img.shields.io/badge/version-1.0-blue.svg)](https://github.com/corinthian/alexandria-task-manager)
 
 ## Prerequisites
 
